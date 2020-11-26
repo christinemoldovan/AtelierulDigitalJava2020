@@ -7,11 +7,11 @@ public abstract class Animal {
     }
     //+ public - privat
     public void walk(){
-        System.out.println("Walk");
+        System.out.print("Walk");
     }
 
     public void eat(){
-        System.out.println("Eat");
+        System.out.print("Eat");
     }
 }
 
